@@ -98,9 +98,16 @@ button:focus {
         color: #434455;
 }
 
-.sectionsection-tree {
-    background-color:#FFFFFF;
+.section-tree {
+    background-color:#f4f4fd;
 }
+.chel h3{
+    background-color: #FFFFFF;
+}
+.chel p {
+    background-color: #FFFFFF;
+}
+
 .section-tree h2 {
     font-weight: 700;
         font-size: 36px;
