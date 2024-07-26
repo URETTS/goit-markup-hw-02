@@ -65,13 +65,14 @@ section2 p {
 
 
 
-body {
+.body {
     font-family: 'Roboto', "Georgia", sans-serif;
     font-weight: 400;
-    color: #2E2F42;
+    color: #434455;
+    background-color: #FFFFFF ;
 }
 
-footer{
+.footer{
     background-color: #2E2F42;
     color: #FFFFFF;
     font-size: 16px;
