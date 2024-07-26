@@ -1,0 +1,79 @@
+.page-nav .link {
+color: #434455;
+font-size: 12px;
+line-height: 1.333;
+}
+.page-nav .link:hover {
+    color: #404BBF;
+    font-size: 12px;
+}
+.address {
+    color:#434455;
+    font-size: 12px;
+    line-height: 1.333;
+}
+.address:hover,
+.address:focus {
+    color: #404BBF;
+    font-size: 12px;
+    line-height: 1.333;
+}
+ul {
+    list-style-type: none;
+}
+
+
+.section1{
+background-color: #2E2F42;
+}
+.section1 h1{
+    color: #FFFFFF;
+    font-size: 56px;
+    line-height: 1.07;
+}
+button {
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    font-size: 24px;
+    line-height: 1.5;
+    cursor: pointer;
+}
+button:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+
+.section2 h3 {
+    font-size: 20px;
+}
+section2 p {
+    font-size: 16px;
+}
+
+.section3 {
+    background-color: #F4F4FD;
+}
+.section3 h3 {
+    font-size: 20px;
+}
+
+.section3 p {
+    font-size: 16px;
+}
+
+
+
+
+body {
+    font-family: 'Roboto', "Georgia", sans-serif;
+    font-weight: 400;
+    color: #2E2F42;
+}
+
+footer{
+    background-color: #2E2F42;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5;
+}
